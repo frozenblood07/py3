@@ -2,3 +2,4 @@ test.
  file write. test
 
 New bit of information
+test
